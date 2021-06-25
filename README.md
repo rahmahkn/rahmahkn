@@ -2,7 +2,7 @@
 My name is Rahmah and I'm a second-year Informatics student at Bandung Institute of Technology. Still learning to be a great software engineer.
 
 ### 😄 Activity
-Currently, I am involved in some IT projects, especially web development as a developer or a project manager. Personally, I also passionate in product management and development.
+Currently, I am involved in some IT projects, especially web development as a developer or project manager. Personally, I also passionate in product management and development.
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/rahmahkn/rahmahkn">
