@@ -1,8 +1,8 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
-My name is Rahmah and I'm a third-year Informatics student at Bandung Institute of Technology. Still learning to be a great software engineer.
+My name is Rahmah and I'm a third-year Informatics student at Bandung Institute of Technology.
 
 ### 😄 Activity
-Currently, I am involved in some IT projects, especially web development as a developer or project manager. Personally, I'm also passionate in product management and development.
+Experienced in several web projects as a developer or project manager. Currently learning mobile development at Bangkit Academy 2022. Personally, I'm also passionate in computational science and software quality assurance.
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/rahmahkn/rahmahkn">
