@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px"> Hello! 
 My name is Rahmah and I'm a third-year Informatics student at Bandung Institute of Technology.
 
 ### 😄 Activity
