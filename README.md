@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px"> Hello! 
-Hi! I'm Rahmah, an MSc Cognitive Science Student at The University of Edinburgh. 
+Hi! I'm Rahmah, an MSc in Cognitive Science Student at The University of Edinburgh. Graduated with my BSc in Computer Science from Institut Teknologi Bandung.
 
 ### 😄 Activity
 Currently studying how both human and artificial intelligence work. Previously researching natural language processing, managed to do some professional work in IT audit and consulting, also a bit of software engineering. Somewhat still exploring other exciting things in life!
