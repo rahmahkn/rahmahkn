@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px"> Hello! 
-Hi! I'm Rahmah, and now studying as a final year Informatics student at Bandung Institute of Technology.
+Hi! I'm Rahmah, an MSc Cognitive Science Student at The University of Edinburgh. 
 
 ### 😄 Activity
-Still exploring more great technologies out there! Currently working on mobile app development and productivity. Always open to challenges that are yet to come!
+Currently studying how both human and artificial intelligence work. Previously researching natural language processing, managed to do some professional work in IT audit and consulting, also a bit of software engineering. Somewhat still exploring other exciting things in life!
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/rahmahkn/rahmahkn">
