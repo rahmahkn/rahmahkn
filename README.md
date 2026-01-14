@@ -2,7 +2,7 @@
 Hi! I'm Rahmah, an MSc in Cognitive Science Student at The University of Edinburgh. Graduated with my BSc in Computer Science from Institut Teknologi Bandung.
 
 ### 😄 Activity
-Currently studying how both human and artificial intelligence work. Previously researching natural language processing, managed to do some professional work in IT audit and consulting, also a bit of software engineering. Somewhat still exploring other exciting things in life!
+Currently studying how both human and artificial intelligence work. Previously researched natural language processing, managed to do some professional work in IT audit and consulting, also a bit of software engineering. Somewhat still exploring other exciting things in life!
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/rahmahkn/rahmahkn">
@@ -13,5 +13,5 @@ Currently studying how both human and artificial intelligence work. Previously r
 </a>
 
 ### 💬 Contact
-Email: rahmah.ks.nurdini@gmail.com<br>
+Email: hi.rahmahkn@gmail.com<br>
 Linkedin: https://linkedin.com/in/rahmahkn
